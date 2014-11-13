@@ -1,0 +1,6 @@
+C:\Users\phil.e\Documents\Visual Studio 2013\Projects\Sandbox\Google.PolylineDecoder\bin\Debug\Google.PolylineDecoder.exe.config
+C:\Users\phil.e\Documents\Visual Studio 2013\Projects\Sandbox\Google.PolylineDecoder\bin\Debug\Google.PolylineDecoder.exe
+C:\Users\phil.e\Documents\Visual Studio 2013\Projects\Sandbox\Google.PolylineDecoder\bin\Debug\Google.PolylineDecoder.pdb
+C:\Users\phil.e\Documents\Visual Studio 2013\Projects\Sandbox\Google.PolylineDecoder\obj\Debug\Google.PolylineDecoder.csprojResolveAssemblyReference.cache
+C:\Users\phil.e\Documents\Visual Studio 2013\Projects\Sandbox\Google.PolylineDecoder\obj\Debug\Google.PolylineDecoder.exe
+C:\Users\phil.e\Documents\Visual Studio 2013\Projects\Sandbox\Google.PolylineDecoder\obj\Debug\Google.PolylineDecoder.pdb
